@@ -36,7 +36,5 @@ A continuación, se detalla el equipo de especialistas responsable de la consult
 
 ##  Entregables y Enlaces del Proyecto
 
-Tal como lo establecen los requerimientos de la consultoría, a continuación se presentan los enlaces oficiales del proyecto:
-
 *   **Repositorio Oficial (GitHub):** [https://github.com/KenOO2/Desafio_WilliamSquad_Pedido06]
 *   **Video de la Defensa Técnica:** []
