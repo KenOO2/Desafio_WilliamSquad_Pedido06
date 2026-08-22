@@ -61,8 +61,6 @@ deb http://mirror.innovacloud.local/ubuntu noble-security main restricted univer
 deb-src http://mirror.innovacloud.local/ubuntu noble main restricted universe multiverse
 ```
 
-> **Nota modular:** Si la empresa requiere integrar repositorios adicionales específicos de forma aislada sin modificar el archivo base, se pueden añadir archivos con extensión `.list` dentro del directorio modular `/etc/apt/sources.list.d/`:
-
 ```bash
 sudo nano /etc/apt/sources.list.d/innovacloud-tools.list
 ```
