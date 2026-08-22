@@ -37,4 +37,4 @@ A continuación, se detalla el equipo de especialistas responsable de la consult
 ##  Entregables y Enlaces del Proyecto
 
 *   **Repositorio Oficial (GitHub):** [https://github.com/KenOO2/Desafio_WilliamSquad_Pedido06]
-*   **Video de la Defensa Técnica:** []
+*   **Video de la Defensa Técnica:** [https://drive.google.com/drive/folders/18OiW_RKrxZxC-vfRZTjoMYkPmazRcRQE?usp=sharing]
