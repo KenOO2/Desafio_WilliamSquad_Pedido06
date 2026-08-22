@@ -1,7 +1,7 @@
 # Propuesta Técnica de Almacenamiento y Redundancia
 **Cliente:** InnovaCloud Solutions  
 **Documento:** `storage.md`  
-**Autor:** Equipo de Consultoría IT e Infraestructura William Squad (Kevin Ortez) 
+**Autor:** Kevin Alexander Ortez Oliva 
 **Sistema Operativo Base:** Ubuntu Server LTS  
 
 ---
