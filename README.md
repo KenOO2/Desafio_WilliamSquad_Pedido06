@@ -34,7 +34,7 @@ A continuación, se detalla el equipo de especialistas responsable de la consult
 
 ---
 
-## 🔗 Entregables y Enlaces del Proyecto
+##  Entregables y Enlaces del Proyecto
 
 Tal como lo establecen los requerimientos de la consultoría, a continuación se presentan los enlaces oficiales del proyecto:
 
